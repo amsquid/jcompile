@@ -20,9 +20,11 @@ Compile with:<br>
 ./jcompile test.txc
 ```
 
+  ## Requirements
 
+GCC and NASM
 
-  ## Usage/Examples
+  ## Usage
 A txc program has a pointer that points to anywhere on a 512 byte array.<br>
 The program has the following instructions:
 ```txt
